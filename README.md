@@ -10,8 +10,7 @@
 **Featured work**
 - 🧮 Linear Regression Demo — predict exam scores from study hours  
 - 🌺 Iris Classification — classic ML pipeline + metrics  
-- 🔢 CNN MNIST (PyTorch) — 90%+ accuracy baseline  
-- 💬 Chatbot FAQ API — FastAPI endpoint wrapping an NLP model  
+- 🔢 CNN MNIST (PyTorch) — 90%+ accuracy baseline   
 - 🤖 WhatsApp Bot (UMKM) — automation & integration
 
 **Links**
