@@ -15,8 +15,7 @@
 
 **Links**
 - 🌐 Portfolio: https://hasrinata.site  
-- 💼 LinkedIn: https://www.linkedin.com/in/hasrinata  
-- 🧾 CV: (add link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/hasrinata
 
 ---
 
