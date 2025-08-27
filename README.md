@@ -10,7 +10,7 @@
 **Featured work**
 - 🧮 Linear Regression Demo — predict exam scores from study hours  
 - 🌺 Iris Classification — classic ML pipeline + metrics  
-- 🔢 CNN MNIST (PyTorch) — 90%+ accuracy baseline   
+- 🔢 OCR-Aksara Jawa — OCR with Yolo   
 - 🤖 WhatsApp Bot (UMKM) — automation & integration
 
 **Links**
