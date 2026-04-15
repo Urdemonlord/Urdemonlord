@@ -5,6 +5,7 @@ TypeScript JavaScript Python Go PHP
 
 I build web products, automation tools, and AI-powered systems.  
 Currently exploring LLM security, AI agents, and building scalable digital products.
+
 ---
 
 ## 🚀 Selected Work  
@@ -65,6 +66,15 @@ Financial management system
 
 ---
 
+## 🛒 Products  
+
+🔗 **[MeowLabs Store](https://meowlabs.store/)**  
+Digital products, tools, and solutions built and sold by Meow Labs  
+
+🔗 **[MeowLabs Id](https://meowlabs.id/)** 
+
+---
+
 ## ⚙️ Systems & IoT  
 
 🔗 **[Satria IoT](https://satria-iot.meowlabs.id/)**  
@@ -89,4 +99,4 @@ Financial management system
 
 ## 📌  
 
-I build useful, production-ready systems — not just demos.
+I build useful, production-ready systems — and turn them into real products.
