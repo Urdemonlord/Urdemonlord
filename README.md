@@ -1,59 +1,70 @@
 ## Hi, I'm Arya  
-📍 Semarang, Indonesia | 🚀 Founder @ Meow Labs | 💻 Fullstack Developer  
+📍 Semarang, Indonesia  
+🚀 Founder @ Meow Labs  
+💻 Fullstack Developer  
 
-TypeScript JavaScript Python Go PHP  
+TypeScript • JavaScript • Python • Go • PHP  
 
-I build web products, automation tools, and AI-powered systems.  
-Currently exploring LLM security, AI agents, and building scalable digital products.
-
----
-
-## 🚀 Day Job  
-🌐 **Meow Labs**  
-Web development & digital solutions studio  
-Building platforms, SaaS, and custom systems for clients.
+I build scalable web systems, AI-powered tools, and real-world digital products.
 
 ---
 
-## 🧪 Projects  
+## 🚀 Selected Work  
 
-Things I build to solve real problems.
+**LogicLabs**  
+https://logiclabs.meowlabs.id/  
+AI-powered platform for generating logic and reasoning questions  
 
-🔗 **LogicLabs**  
-AI-powered question generator platform  
-Generate logic and reasoning questions dynamically  
+**Triage AI**  
+https://triage.ai.hasrinata.site/  
+AI system for early health decision support  
 
-🔗 **Kelasin**  
-Course platform for online learning  
-Fullstack system with course management & payments  
+**SIMPUS**  
+https://simpus.meowlabs.id/  
+Public health information system for healthcare services  
 
-🔗 **OCR Converter Web**  
-Convert & extract text from files  
-FastAPI backend with frontend integration  
+**Teleradiologi**  
+https://teleradiologi.meowlabs.id/  
+Medical platform for remote radiology services  
 
-🔗 **Satria Sight Guard**  
-Security-focused web system  
-AI + monitoring-based protection system  
-
----
-
-## 🧠 Research  
-
-🔐 **LLM Security Sandbox**  
-AI adversarial agent to test prompt injection & jailbreak vulnerabilities  
+**Finmate**  
+https://finmate.meowlabs.id/  
+Financial management system  
 
 ---
 
-## ⚙️ Tech Focus  
+## 🧪 Other Projects  
+
+https://unimusprime.my.id/  
+https://sidangah.meowlabs.id/  
+https://ppkohimatikro.my.id/  
+https://mudamanunggalroso.my.id/  
+https://satria-iot.meowlabs.id/  
+https://hikmah.meowlabs.id/  
+https://nonamanis.meowlabs.id/  
+https://webmanage.meowlabs.id/  
+https://chatbotrsgm.meowlabs.id/  
+https://vote.meowlabs.id/  
+https://nota.meowlabs.id/  
+https://kopisenja.meowlabs.id/  
+https://jekatowingservice.com/  
+https://kosatlas.meowlabs.id/  
+https://gencv.meowlabs.id/  
+https://deteksi-tulis.vercel.app/  
+https://web-skill-weaver.lovable.app/  
+https://pixel-to-svg-spark.lovable.app/  
+
+---
+
+## 🧠 Focus  
 
 - Fullstack Web Development  
-- AI Integration (LLMs, automation)  
-- System Architecture & Backend Engineering  
-- Security & AI Red Teaming  
+- AI Integration & Automation  
+- System Architecture  
+- Real-world Product Development  
 
 ---
 
-## 📌 Notes  
+## 📌  
 
-I like building useful systems, not just demos.  
-Focus: scalable, practical, and production-ready tools.
+I focus on building useful, production-ready systems — not just demos.
