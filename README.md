@@ -1,43 +1,59 @@
-Hi, I’m Hasrinata Arya Afendi
+## Hi, I'm Arya  
+📍 Semarang, Indonesia | 🚀 Founder @ Meow Labs | 💻 Fullstack Developer  
 
-Founder of MeowLabs & Aspiring AI Engineer
-Background in Informatics, Universitas Muhammadiyah Semarang (Unimus), batch 2022. Passionate about building applied AI products and digital solutions that bridge technology with real-world needs.
+TypeScript JavaScript Python Go PHP  
 
-Focus
+I build web products, automation tools, and AI-powered systems.  
+Currently exploring LLM security, AI agents, and building scalable digital products.
 
-Machine Learning & Deep Learning → scikit-learn, PyTorch, TensorFlow
+---
 
-Applied AI → NLP, simple CV, chatbots, automation for UMKM
+## 🚀 Day Job  
+🌐 **Meow Labs**  
+Web development & digital solutions studio  
+Building platforms, SaaS, and custom systems for clients.
 
-Software fundamentals → Python, FastAPI, Docker, Git/GitHub
+---
 
-Startup building → SaaS development, product ideation, digital branding (MeowLabs)
+## 🧪 Projects  
 
-Featured Work
+Things I build to solve real problems.
 
-🔢 OCR-Aksara Jawa — OCR with Yolo
+🔗 **LogicLabs**  
+AI-powered question generator platform  
+Generate logic and reasoning questions dynamically  
 
-🤖 WhatsApp Bot (UMKM) — automation & integration
+🔗 **Kelasin**  
+Course platform for online learning  
+Fullstack system with course management & payments  
 
-🚀 MeowLabs.store — digital goods marketplace & SaaS prototype
+🔗 **OCR Converter Web**  
+Convert & extract text from files  
+FastAPI backend with frontend integration  
 
-🌐 MeowLabs.id — company website for services & branding
+🔗 **Satria Sight Guard**  
+Security-focused web system  
+AI + monitoring-based protection system  
 
-Links
+---
 
-🌐 Portfolio: hasrinata.site
+## 🧠 Research  
 
-🐾 MeowLabs: meowlabs.id
- · meowlabs.store
+🔐 **LLM Security Sandbox**  
+AI adversarial agent to test prompt injection & jailbreak vulnerabilities  
 
-💼 LinkedIn: linkedin.com/in/hasrinata
+---
 
-💻 GitHub: github.com/Urdemonlord
+## ⚙️ Tech Focus  
 
-Tech
+- Fullstack Web Development  
+- AI Integration (LLMs, automation)  
+- System Architecture & Backend Engineering  
+- Security & AI Red Teaming  
 
-AI/Data: Python · NumPy · Pandas · Matplotlib · scikit-learn · PyTorch · TensorFlow
-API/Deploy: FastAPI · Docker · Supabase · GitHub Actions · Railway/Render
-General: SQL · MongoDB · Linux · Git
+---
 
-Currently building applied ML mini-projects and SaaS prototypes under MeowLabs. Open to collaborations, internships, and junior AI/ML roles.
+## 📌 Notes  
+
+I like building useful systems, not just demos.  
+Focus: scalable, practical, and production-ready tools.
