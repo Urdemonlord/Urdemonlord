@@ -53,8 +53,7 @@ Financial management system
 🔗 **[Nonamanis](https://nonamanis.meowlabs.id/)**  
 🔗 **[WebManage](https://webmanage.meowlabs.id/)**  
 🔗 **[Chatbot RSGM](https://chatbotrsgm.meowlabs.id/)**  
-🔗 **[Vote System](https://vote.meowlabs.id/)**  
-🔗 **[Nota System](https://nota.meowlabs.id/)**  
+🔗 **[Vote System](https://vote.meowlabs.id/)**   
 
 ---
 
@@ -63,6 +62,7 @@ Financial management system
 🔗 **[Kopi Senja](https://kopisenja.meowlabs.id/)**  
 🔗 **[Jeka Towing Service](https://www.jekatowingservice.com/)**  
 🔗 **[KosAtlas](https://kosatlas.meowlabs.id/)**  
+🔗 **[Najstore Top up](https://najstore.id/)**
 
 ---
 
