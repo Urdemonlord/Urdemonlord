@@ -9,7 +9,7 @@
 ╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;Founder+of+Meow+Labs+%F0%9F%90%BE;Building+AI+Products+That+Matter+%F0%9F%A7%A0;Turning+Ideas+into+Production-Ready+Systems+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Founder+of+Meow+Labs;Building+AI+Products+That+Matter;Turning+Ideas+into+Production-Ready+Systems" alt="Typing SVG" />
 
 <br/>
 
