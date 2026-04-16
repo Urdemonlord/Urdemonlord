@@ -1,14 +1,31 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Arya;Fullstack+Developer;Founder+of+Meow+Labs;Building+AI+Products+That+Matter" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&width=600&lines=Hi+I'm+Arya;Fullstack+Developer;Founder+of+Meow+Labs;Building+AI+Products+That+Matter" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Urdemonlord&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Urdemonlord&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://komarev.com/ghpvc/?username=Urdemonlord&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urdemonlord&theme=tokyo-night&hide_border=true"/>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Urdemonlord&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Urdemonlord&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Urdemonlord&show_icons=true&hide_border=true" height="150"/>
+  </picture>
+
+  <picture>
+    <source srcset="https://streak-stats.demolab.com?user=Urdemonlord&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://streak-stats.demolab.com?user=Urdemonlord&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+    <img src="https://streak-stats.demolab.com?user=Urdemonlord&hide_border=true" height="150"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Urdemonlord&theme=tokyo-night&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Urdemonlord&theme=github-light&hide_border=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urdemonlord&hide_border=true"/>
+  </picture>
 </p>
 
 ---
@@ -97,6 +114,16 @@ Digital products, tools, and solutions built and sold by Meow Labs
 - AI Integration & Automation  
 - System Architecture  
 - Real-world Product Development  
+
+---
+
+## 🤝 Work With Me  
+
+Open for collaboration, freelance projects, or building products together.  
+
+- 🌐 **Website**: https://meowlabs.id  
+- 📩 **Contact**: hasrinata@gmail.com  
+- 💼 **Services**: Web Development • AI Systems • Automation  
 
 ---
 
