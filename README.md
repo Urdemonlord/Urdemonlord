@@ -1,10 +1,15 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Arya;Fullstack+Developer;Founder+of+Meow+Labs;Building+AI+%26+Real-World+Systems" />
+</p>
+
 ## Hi, I'm Arya  
-📍 Semarang, Indonesia | 🚀 Founder @ Meow Labs | 💻 Fullstack Developer  
+📍 Semarang, Indonesia  
+🚀 Founder @ Meow Labs  
+💻 Fullstack Developer  
 
-TypeScript JavaScript Python Go PHP  
+TypeScript • JavaScript • Python • Go • PHP  
 
-I build web products, automation tools, and AI-powered systems.  
-Currently exploring LLM security, AI agents, and building scalable digital products.
+I build scalable systems, AI-powered tools, and real-world digital products.
 
 ---
 
@@ -53,7 +58,8 @@ Financial management system
 🔗 **[Nonamanis](https://nonamanis.meowlabs.id/)**  
 🔗 **[WebManage](https://webmanage.meowlabs.id/)**  
 🔗 **[Chatbot RSGM](https://chatbotrsgm.meowlabs.id/)**  
-🔗 **[Vote System](https://vote.meowlabs.id/)**   
+🔗 **[Vote System](https://vote.meowlabs.id/)**  
+🔗 **[Nota System](https://nota.meowlabs.id/)**  
 
 ---
 
@@ -62,7 +68,6 @@ Financial management system
 🔗 **[Kopi Senja](https://kopisenja.meowlabs.id/)**  
 🔗 **[Jeka Towing Service](https://www.jekatowingservice.com/)**  
 🔗 **[KosAtlas](https://kosatlas.meowlabs.id/)**  
-🔗 **[Najstore Top up](https://najstore.id/)**
 
 ---
 
@@ -70,8 +75,6 @@ Financial management system
 
 🔗 **[MeowLabs Store](https://meowlabs.store/)**  
 Digital products, tools, and solutions built and sold by Meow Labs  
-
-🔗 **[MeowLabs Id](https://meowlabs.id/)** 
 
 ---
 
