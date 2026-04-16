@@ -2,15 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Arya;Fullstack+Developer;Founder+of+Meow+Labs;Building+AI+%26+Real-World+Systems" />
 </p>
 
-## Hi, I'm Arya  
-📍 Semarang, Indonesia  
-🚀 Founder @ Meow Labs  
-💻 Fullstack Developer  
-
-TypeScript • JavaScript • Python • Go • PHP  
-
-I build scalable systems, AI-powered tools, and real-world digital products.
-
 ---
 
 ## 🚀 Selected Work  
