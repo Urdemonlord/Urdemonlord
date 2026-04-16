@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Arya;Fullstack+Developer;Founder+of+Meow+Labs;Building+AI+Products+That+Matter" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Urdemonlordshow_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Urdemonlord&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=Urdemonlord&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urdemonlord&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urdemonlord&theme=tokyo-night&hide_border=true"/>
 </p>
 
 
