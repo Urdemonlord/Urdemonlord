@@ -52,39 +52,73 @@ Financial management system
 ## 🧠 AI & Smart Systems  
 
 🔗 **[LogicLabs](https://logiclabs.meowlabs.id/)**  
+AI-powered platform for generating logic and reasoning questions  
+
 🔗 **[Triage AI](https://triage.ai.hasrinata.site/)**  
+AI system for early health decision support  
+
 🔗 **[Deteksi Tulis](https://deteksi-tulis.vercel.app/)**  
+Handwriting detection and text extraction tool  
+
 🔗 **[GenCV](https://gencv.meowlabs.id/)**  
+AI-based CV generator for fast and clean resume creation  
 
 ---
 
 ## 🏥 Health & Government Systems  
 
 🔗 **[SIMPUS](https://simpus.meowlabs.id/)**  
+Public health information system for clinics and services  
+
 🔗 **[Teleradiologi](https://teleradiologi.meowlabs.id/)**  
+Remote radiology platform for medical diagnostics  
+
 🔗 **[SIDANGAH](https://sidangah.meowlabs.id/)**  
+Digital system for managing academic thesis sessions  
+
 🔗 **[UNIMUS Prime](https://unimusprime.my.id/)**  
+University platform for information and digital services  
 
 ---
 
 ## 🌐 Platforms & Organization  
 
 🔗 **[PPKO Himatikro](https://www.ppkohimatikro.my.id/)**  
+Organization website for student activities and programs  
+
 🔗 **[Muda Manunggal Roso](https://www.mudamanunggalroso.my.id/)**  
+Community platform for local organization and engagement  
+
 🔗 **[Hikmah](https://hikmah.meowlabs.id/)**  
+Content-based platform for information and publishing  
+
 🔗 **[Nonamanis](https://nonamanis.meowlabs.id/)**  
+Brand website for showcasing products and identity  
+
 🔗 **[WebManage](https://webmanage.meowlabs.id/)**  
+Web management system for handling multiple sites  
+
 🔗 **[Chatbot RSGM](https://chatbotrsgm.meowlabs.id/)**  
+AI chatbot for hospital information and interaction  
+
 🔗 **[Vote System](https://vote.meowlabs.id/)**  
+Online voting platform for organizations and events  
+
 🔗 **[Nota System](https://nota.meowlabs.id/)**  
+Digital invoicing and transaction management system  
 
 ---
 
 ## 💼 Business & Client Projects  
 
 🔗 **[Kopi Senja](https://kopisenja.meowlabs.id/)**  
+Coffee brand website for online presence and promotion  
+
 🔗 **[Jeka Towing Service](https://www.jekatowingservice.com/)**  
+Service website for towing and roadside assistance  
+
 🔗 **[KosAtlas](https://kosatlas.meowlabs.id/)**  
+Platform for searching and managing boarding houses  
 
 ---
 
@@ -98,13 +132,17 @@ Digital products, tools, and solutions built and sold by Meow Labs
 ## ⚙️ Systems & IoT  
 
 🔗 **[Satria IoT](https://satria-iot.meowlabs.id/)**  
+IoT-based monitoring and control system  
 
 ---
 
 ## 🧪 Experiments & Tools  
 
 🔗 **[Skill Weaver](https://web-skill-weaver.lovable.app/)**  
+Interactive tool for skill mapping and development  
+
 🔗 **[Pixel to SVG](https://pixel-to-svg-spark.lovable.app/)**  
+Convert raster images into scalable vector graphics    
 
 ---
 
