@@ -29,7 +29,7 @@
 
 ```typescript
 const arya = {
-  name        : "Arya Hasrinata",
+  name        : "Hasrinata Arya Afendi",
   role        : "Fullstack Developer & AI Builder",
   company     : "Meow Labs 🐾",
   location    : "Indonesia 🇮🇩",
