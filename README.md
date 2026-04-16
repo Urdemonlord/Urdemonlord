@@ -8,19 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urdemonlord&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-## Hi, I'm Arya  
-📍 Semarang, Indonesia  
-🚀 Founder @ Meow Labs  
-💻 Fullstack Developer  
-
-TypeScript • JavaScript • Python • Go • PHP  
-
-I build scalable systems, AI-powered tools, and real-world digital products.
 
 ---
 
