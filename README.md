@@ -1,170 +1,214 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&width=600&lines=Hi+I'm+Arya;Fullstack+Developer;Founder+of+Meow+Labs;Building+AI+Products+That+Matter" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Urdemonlord&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+```
+░█████╗░██████╗░██╗░░░██╗░█████╗░
+██╔══██╗██╔══██╗╚██╗░██╔╝██╔══██╗
+███████║██████╔╝░╚████╔╝░███████║
+██╔══██║██╔══██╗░░╚██╔╝░░██╔══██║
+██║░░██║██║░░██║░░░██║░░░██║░░██║
+╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝
+```
 
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Urdemonlord&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Urdemonlord&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Urdemonlord&show_icons=true&hide_border=true" height="150"/>
-  </picture>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;Founder+of+Meow+Labs+%F0%9F%90%BE;Building+AI+Products+That+Matter+%F0%9F%A7%A0;Turning+Ideas+into+Production-Ready+Systems+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 
-  <picture>
-    <source srcset="https://streak-stats.demolab.com?user=Urdemonlord&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://streak-stats.demolab.com?user=Urdemonlord&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img src="https://streak-stats.demolab.com?user=Urdemonlord&hide_border=true" height="150"/>
-  </picture>
-</p>
+<br/>
 
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Urdemonlord&theme=tokyo-night&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Urdemonlord&theme=github-light&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urdemonlord&hide_border=true"/>
-  </picture>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=Urdemonlord&label=Profile+Views&color=00d9ff&style=flat-square)](https://github.com/Urdemonlord)
+[![Website](https://img.shields.io/badge/🌐_meowlabs.id-00d9ff?style=flat-square&logoColor=white)](https://meowlabs.id)
+[![Email](https://img.shields.io/badge/📩_hasrinata@gmail.com-ff6b6b?style=flat-square)](mailto:hasrinata@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 Selected Work  
+<div align="center">
 
-🔗 **[LogicLabs](https://logiclabs.meowlabs.id/)**  
-AI-powered platform for generating logic and reasoning questions  
+## ⚡ `whoami`
 
-🔗 **[Triage AI](https://triage.ai.hasrinata.site/)**  
-AI system for early health decision support  
+</div>
 
-🔗 **[SIMPUS](https://simpus.meowlabs.id/)**  
-Public health information system  
-
-🔗 **[Teleradiologi](https://teleradiologi.meowlabs.id/)**  
-Remote radiology platform  
-
-🔗 **[Finmate](https://finmate.meowlabs.id/)**  
-Financial management system  
-
----
-
-## 🧠 AI & Smart Systems  
-
-🔗 **[LogicLabs](https://logiclabs.meowlabs.id/)**  
-AI-powered platform for generating logic and reasoning questions  
-
-🔗 **[Triage AI](https://triage.ai.hasrinata.site/)**  
-AI system for early health decision support  
-
-🔗 **[Deteksi Tulis](https://deteksi-tulis.vercel.app/)**  
-Handwriting detection and text extraction tool  
-
-🔗 **[GenCV](https://gencv.meowlabs.id/)**  
-AI-based CV generator for fast and clean resume creation  
+```typescript
+const arya = {
+  name        : "Arya Hasrinata",
+  role        : "Fullstack Developer & AI Builder",
+  company     : "Meow Labs 🐾",
+  location    : "Indonesia 🇮🇩",
+  focus       : ["AI Integration", "System Architecture", "Real-world Products"],
+  currentlyOn : "Building AI-powered platforms that actually ship",
+  available   : true, // open for collab & freelance
+};
+```
 
 ---
 
-## 🏥 Health & Government Systems  
+<div align="center">
 
-🔗 **[SIMPUS](https://simpus.meowlabs.id/)**  
-Public health information system for clinics and services  
+## 📊 GitHub Activity
 
-🔗 **[Teleradiologi](https://teleradiologi.meowlabs.id/)**  
-Remote radiology platform for medical diagnostics  
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Urdemonlord&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&rank_icon=github" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Urdemonlord&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Urdemonlord&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" height="160"/>
+</picture>
 
-🔗 **[SIDANGAH](https://sidangah.meowlabs.id/)**  
-Digital system for managing academic thesis sessions  
+<picture>
+  <source srcset="https://streak-stats.demolab.com?user=Urdemonlord&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://streak-stats.demolab.com?user=Urdemonlord&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+  <img src="https://streak-stats.demolab.com?user=Urdemonlord&hide_border=true" height="160"/>
+</picture>
 
-🔗 **[UNIMUS Prime](https://unimusprime.my.id/)**  
-University platform for information and digital services  
+<picture>
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Urdemonlord&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Urdemonlord&theme=github-light&hide_border=true" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urdemonlord&hide_border=true" width="100%"/>
+</picture>
 
----
-
-## 🌐 Platforms & Organization  
-
-🔗 **[PPKO Himatikro](https://www.ppkohimatikro.my.id/)**  
-Organization website for student activities and programs  
-
-🔗 **[Muda Manunggal Roso](https://www.mudamanunggalroso.my.id/)**  
-Community platform for local organization and engagement  
-
-🔗 **[Hikmah](https://hikmah.meowlabs.id/)**  
-Content-based platform for information and publishing  
-
-🔗 **[Nonamanis](https://nonamanis.meowlabs.id/)**  
-Brand website for showcasing products and identity  
-
-🔗 **[WebManage](https://webmanage.meowlabs.id/)**  
-Web management system for handling multiple sites  
-
-🔗 **[Chatbot RSGM](https://chatbotrsgm.meowlabs.id/)**  
-AI chatbot for hospital information and interaction  
-
-🔗 **[Vote System](https://vote.meowlabs.id/)**  
-Online voting platform for organizations and events  
-
-🔗 **[Nota System](https://nota.meowlabs.id/)**  
-Digital invoicing and transaction management system  
+</div>
 
 ---
 
-## 💼 Business & Client Projects  
+<div align="center">
 
-🔗 **[Kopi Senja](https://kopisenja.meowlabs.id/)**  
-Coffee brand website for online presence and promotion  
+## 🛠️ Tech Stack
 
-🔗 **[Jeka Towing Service](https://www.jekatowingservice.com/)**  
-Service website for towing and roadside assistance  
+</div>
 
-🔗 **[KosAtlas](https://kosatlas.meowlabs.id/)**  
-Platform for searching and managing boarding houses  
+<div align="center">
 
----
+**Frontend**
 
-## 🛒 Products  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-🔗 **[MeowLabs Store](https://meowlabs.store/)**  
-Digital products, tools, and solutions built and sold by Meow Labs  
+**Backend**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## ⚙️ Systems & IoT  
+**AI & Cloud**
 
-🔗 **[Satria IoT](https://satria-iot.meowlabs.id/)**  
-IoT-based monitoring and control system  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 🧪 Experiments & Tools  
-
-🔗 **[Skill Weaver](https://web-skill-weaver.lovable.app/)**  
-Interactive tool for skill mapping and development  
-
-🔗 **[Pixel to SVG](https://pixel-to-svg-spark.lovable.app/)**  
-Convert raster images into scalable vector graphics    
+</div>
 
 ---
 
-## 🧠 Focus  
+## 🚀 Selected Work
 
-- Fullstack Web Development  
-- AI Integration & Automation  
-- System Architecture  
-- Real-world Product Development  
+<div align="center">
+
+### 🧠 AI & Smart Systems
+
+</div>
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🤖 **LogicLabs** | AI-powered platform for generating logic & reasoning questions | [→ logiclabs.meowlabs.id](https://logiclabs.meowlabs.id/) |
+| 🏥 **Triage AI** | AI system for early health decision support | [→ triage.ai.hasrinata.site](https://triage.ai.hasrinata.site/) |
+| ✍️ **Deteksi Tulis** | Handwriting detection & text extraction tool | [→ deteksi-tulis.vercel.app](https://deteksi-tulis.vercel.app/) |
+| 📄 **GenCV** | AI-based CV generator for fast, clean resume creation | [→ gencv.meowlabs.id](https://gencv.meowlabs.id/) |
+| 💬 **Chatbot RSGM** | AI chatbot for hospital information & interaction | [→ chatbotrsgm.meowlabs.id](https://chatbotrsgm.meowlabs.id/) |
+
+<div align="center">
+
+### 🏥 Health & Government Systems
+
+</div>
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🏛️ **SIMPUS** | Public health information system for clinics | [→ simpus.meowlabs.id](https://simpus.meowlabs.id/) |
+| 📡 **Teleradiologi** | Remote radiology platform for medical diagnostics | [→ teleradiologi.meowlabs.id](https://teleradiologi.meowlabs.id/) |
+| 🎓 **SIDANGAH** | Digital system for managing academic thesis sessions | [→ sidangah.meowlabs.id](https://sidangah.meowlabs.id/) |
+| 🎓 **UNIMUS Prime** | University platform for information & digital services | [→ unimusprime.my.id](https://unimusprime.my.id/) |
+
+<div align="center">
+
+### 🌐 Platforms & Organization
+
+</div>
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🗳️ **Vote System** | Online voting platform for organizations & events | [→ vote.meowlabs.id](https://vote.meowlabs.id/) |
+| 🧾 **Nota System** | Digital invoicing & transaction management | [→ nota.meowlabs.id](https://nota.meowlabs.id/) |
+| 🌍 **WebManage** | Web management system for handling multiple sites | [→ webmanage.meowlabs.id](https://webmanage.meowlabs.id/) |
+| 📰 **Hikmah** | Content-based platform for information & publishing | [→ hikmah.meowlabs.id](https://hikmah.meowlabs.id/) |
+| 🏢 **PPKO Himatikro** | Organization website for student activities | [→ ppkohimatikro.my.id](https://www.ppkohimatikro.my.id/) |
+| 🤝 **Muda Manunggal Roso** | Community platform for local engagement | [→ mudamanunggalroso.my.id](https://www.mudamanunggalroso.my.id/) |
+
+<div align="center">
+
+### 💼 Business & Client Projects
+
+</div>
+
+| Project | Description | Link |
+|---------|-------------|------|
+| ☕ **Kopi Senja** | Coffee brand website for online presence | [→ kopisenja.meowlabs.id](https://kopisenja.meowlabs.id/) |
+| 🚗 **Jeka Towing Service** | Service site for towing & roadside assistance | [→ jekatowingservice.com](https://www.jekatowingservice.com/) |
+| 🏠 **KosAtlas** | Platform for searching & managing boarding houses | [→ kosatlas.meowlabs.id](https://kosatlas.meowlabs.id/) |
+| 💅 **Nonamanis** | Brand website for showcasing products & identity | [→ nonamanis.meowlabs.id](https://nonamanis.meowlabs.id/) |
+
+<div align="center">
+
+### ⚙️ Systems, IoT & Tools
+
+</div>
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 📡 **Satria IoT** | IoT-based monitoring & control system | [→ satria-iot.meowlabs.id](https://satria-iot.meowlabs.id/) |
+| 💰 **Finmate** | Financial management system | [→ finmate.meowlabs.id](https://finmate.meowlabs.id/) |
+| 🧪 **Skill Weaver** | Interactive tool for skill mapping & development | [→ web-skill-weaver.lovable.app](https://web-skill-weaver.lovable.app/) |
+| 🖼️ **Pixel to SVG** | Convert raster images into scalable vector graphics | [→ pixel-to-svg-spark.lovable.app](https://pixel-to-svg-spark.lovable.app/) |
 
 ---
 
-## 🤝 Work With Me  
+<div align="center">
 
-Open for collaboration, freelance projects, or building products together.  
+## 🛒 Meow Labs Store
 
-- 🌐 **Website**: https://meowlabs.id  
-- 📩 **Contact**: hasrinata@gmail.com  
-- 💼 **Services**: Web Development • AI Systems • Automation  
+**Digital products, tools, and solutions — built and sold by Meow Labs**
+
+[![MeowLabs Store](https://img.shields.io/badge/🐾_Visit_Store-meowlabs.store-00d9ff?style=for-the-badge)](https://meowlabs.store/)
+
+</div>
 
 ---
 
-## 📌  
+<div align="center">
 
-I build useful, production-ready systems — and turn them into real products.
+## 🤝 Let's Build Something
+
+```
+Open for collaboration · Freelance · Product partnerships
+```
+
+[![Website](https://img.shields.io/badge/🌐_meowlabs.id-0a0a0a?style=for-the-badge)](https://meowlabs.id)
+[![Email](https://img.shields.io/badge/📩_hasrinata@gmail.com-ff6b6b?style=for-the-badge)](mailto:hasrinata@gmail.com)
+
+**Web Development · AI Systems · Automation**
+
+<br/>
+
+> *"I build useful, production-ready systems — and turn them into real products."*
+> 
+> **— Arya, Founder of Meow Labs 🐾**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=80&section=footer&text=&fontSize=0" width="100%"/>
+
+</div>
