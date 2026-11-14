@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="360" viewBox="0 0 780 360">
+  <rect width="780" height="360" rx="12" fill="#0D1117"/>
+  <rect x="1" y="1" width="778" height="358" rx="12" fill="none" stroke="#30363D" stroke-width="1"/>
+  <circle cx="28" cy="24" r="6" fill="#FF5F56"/>
+  <circle cx="48" cy="24" r="6" fill="#FFBD2E"/>
+  <circle cx="68" cy="24" r="6" fill="#27C93F"/>
+  <text x="100" y="29" font-family="monospace" font-size="13" fill="#8B949E">swarm-agent — typing arya.rs</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
+    <text x="24" y="70" fill="#FF7B72" opacity="0">pub const ARYA: Dev = Dev {
+      <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="48" y="96" fill="#E6EDF3" opacity="0">name: <tspan fill="#A5D6FF">"Hasrinata Arya Afendi"</tspan>,
+      <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="48" y="122" fill="#E6EDF3" opacity="0">username: <tspan fill="#A5D6FF">"Urdemonlord"</tspan>,
+      <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="48" y="148" fill="#E6EDF3" opacity="0">role: <tspan fill="#A5D6FF">"Founder, Meow Labs"</tspan>,
+      <animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="48" y="174" fill="#E6EDF3" opacity="0">company: <tspan fill="#A5D6FF">"Meow Labs"</tspan>,
+      <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="48" y="200" fill="#E6EDF3" opacity="0">city: <tspan fill="#A5D6FF">"Indonesia (UTC+07)"</tspan>,
+      <animate attributeName="opacity" from="0" to="1" begin="3.2s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="48" y="226" fill="#E6EDF3" opacity="0">lang: [<tspan fill="#A5D6FF">"id"</tspan>, <tspan fill="#A5D6FF">"en"</tspan>],
+      <animate attributeName="opacity" from="0" to="1" begin="3.8s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="48" y="252" fill="#E6EDF3" opacity="0">focus: [<tspan fill="#A5D6FF">"AI-native products"</tspan>, <tspan fill="#A5D6FF">"AI Security"</tspan>],
+      <animate attributeName="opacity" from="0" to="1" begin="4.4s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="48" y="278" fill="#E6EDF3" opacity="0">currently_on: [<tspan fill="#A5D6FF">"IRIS v0.4.1"</tspan>, <tspan fill="#A5D6FF">"Laras"</tspan>, <tspan fill="#A5D6FF">"Kirana"</tspan>],
+      <animate attributeName="opacity" from="0" to="1" begin="5.0s" dur="0.3s" fill="freeze"/>
+    </text>
+    <text x="24" y="304" fill="#FF7B72" opacity="0">};
+      <animate attributeName="opacity" from="0" to="1" begin="5.6s" dur="0.3s" fill="freeze"/>
+    </text>
+    <rect x="24" y="322" width="10" height="18" fill="#00D9FF" opacity="0">
+      <animate attributeName="opacity" values="0;1;0;1" begin="5.9s" dur="1s" repeatCount="indefinite"/>
+    </rect>
+    <text x="42" y="337" fill="#8B949E" opacity="0">swarm agent finished — 10 lines, 0 errors
+      <animate attributeName="opacity" from="0" to="1" begin="6.2s" dur="0.3s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
