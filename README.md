@@ -2,19 +2,7 @@
 
 <img src="assets/manga-hakari.jpg" align="left" height="340px" />
 
-```rust
-pub const ARYA: Dev = Dev {
-    name: "Hasrinata Arya Afendi",
-    username: "Urdemonlord",
-    role: "Founder, Meow Labs",
-    company: "Meow Labs",
-    city: "Indonesia (UTC+07)",
-    lang: ["id", "en"],
-    focus: ["AI-native products", "AI Security",
-            "Self-hosted systems", "Indonesian language AI"],
-    currently_on: ["IRIS v0.4.1", "Laras", "Kirana"],
-};
-```
+<img src="assets/rust-typing.svg" alt="Rust code typed by swarm agent" />
 
 > "Passion is gambling and gambling is life."
 > - Hakari Kinji, Jujutsu Kaisen, panel by Gege Akutami
